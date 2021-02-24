@@ -13,10 +13,10 @@ The target of this prosthetic forearm design was to use the five individually ac
 
 Version 1 of this prototype utilises 5 servo motors to actutate the fingers. The forearm houses all the servos. Nylon wires act as tendons. The nylon wires are tied firmly to the servogear heads, and the rotation of the servos allowed the fingers to move. To find a detailed outline on how to assemble the nylon wires, check out the Assembly Guide pdf file. 
 
-Follow the link below to check out the demo video of the prototype. 
+Follow the link below to check out the demo video of the prototype: 
 https://youtu.be/SRb94xDs7CY 
 
-An alternate version of the prosthetic arm was designed utilising wood and aluminium rails. The design was impractical given that the prototype was too bulky and heavy for an amputee to use. Nonetheless, the aim of this prototype was to gain some woodworking and metalworking experience. 
+An alternate version of the prosthetic arm was designed utilising wood and aluminium rails. The design was impractical given that the prototype was too bulky and heavy for an amputee to use. Nonetheless, the aim of this prototype was to gain some woodworking and metalworking experience. Follow the link below to check out the demo video of this prototype: https://youtu.be/l63_LTtW4pg 
 
 ![Capture](https://user-images.githubusercontent.com/75569804/108960877-b3fb6300-76ca-11eb-8207-575be886f1c7.PNG)
 
