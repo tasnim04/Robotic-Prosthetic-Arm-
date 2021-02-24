@@ -14,3 +14,7 @@ The target of this prosthetic forearm design was to use the five individually ac
 A demo video for the 
 
 Version 1 of this prototype had quite a few issues. 
+
+![Capture](https://user-images.githubusercontent.com/75569804/108960877-b3fb6300-76ca-11eb-8207-575be886f1c7.PNG)
+
+
