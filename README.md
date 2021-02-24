@@ -22,4 +22,4 @@ An alternate version of the prosthetic arm was designed utilising wood and alumi
 
 There were several issues with version 1 of this robotic prosthetic arm. It is important to ensure there is sufficient tension in the nylon wires between the servo gearheads and the fingers. There were several instances where the nylon wires loosened up. As a result, certain finger grip patterns were unachieveable. 
 
-A new version of this prototype is currently under process. The new version will aim to solve the tension and finger grip issues, as well as house all the servos and necessary electronics inside the forearm. Stay tuned for more updates. 
+Future versions of this robotic prosthetic arm are currently under works. The future version will aim to solve the tension and finger grip issues, as well as house all the servos and necessary electronics inside the forearm. Stay tuned for more updates. 
