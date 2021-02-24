@@ -15,7 +15,7 @@ Version 1 of this prototype utilises 5 servo motors to actutate the fingers. The
 
 Follow the link below to check out the demo video of the prototype. 
 
-An alternate version of the prosthetic arm was designed utilising wood and aluminium rails. Some woodworking and metalworking was required in order to design this version. The design was impractical given that the prototype was too bulky and heavy for an amputee to use. Nonetheless, the aim of this prototype was to gain some woodworking and metalworking experience. 
+An alternate version of the prosthetic arm was designed utilising wood and aluminium rails. The design was impractical given that the prototype was too bulky and heavy for an amputee to use. Nonetheless, the aim of this prototype was to gain some woodworking and metalworking experience. 
 
 ![Capture](https://user-images.githubusercontent.com/75569804/108960877-b3fb6300-76ca-11eb-8207-575be886f1c7.PNG)
 
