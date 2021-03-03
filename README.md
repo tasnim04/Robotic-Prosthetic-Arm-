@@ -1,4 +1,4 @@
-# Robotic-Prosthetic-Arm-
+# robotic-prosthetic-arm
 An Arduino-controlled, robotic prosthetic arm designed to form certain finger grip patterns.
 
 
