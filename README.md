@@ -13,6 +13,8 @@ The target of this prosthetic forearm design was to use the five individually ac
 
 Version 1 of this prototype utilises 5 servo motors to actutate the fingers. The forearm houses all the servos. Nylon wires act as tendons. The nylon wires are tied firmly to the servogear heads, and the rotation of the servos allowed the fingers to move. To find a detailed outline on how to assemble the nylon wires, check out the Assembly Guide pdf file. 
 
+SolidWork and STL files have been made available. ![Capture](https://user-images.githubusercontent.com/75569804/110180324-ae85e180-7e5d-11eb-9d51-9ecc9d935393.PNG) 
+
 An external power supply of 6volts and 2.2A was used to power the servos. To find more information about the servo used in this project, click on this link: https://www.jaycar.com.au/servo-motor-standard-6-volt-with-metal-gear-13kg/p/YM2763 
 
 Follow the link below to check out the demo video of the prototype: 
